@@ -1,0 +1,26 @@
+{
+  "name": "02-tools_and_context",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context ======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganabsher/02-tools_and_context.git"
+  },
+  "author": "Logan Absher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loganabsher/02-tools_and_context/issues"
+  },
+  "homepage": "https://github.com/loganabsher/02-tools_and_context#readme",
+  "devDependencies": {
+    "chai": "^4.1.0"
+  }
+}
